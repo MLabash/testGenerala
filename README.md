@@ -8,10 +8,10 @@ To get you started you can simply clone the `Generala2` repository and install t
 
 ### Prerequisites
 
-You need git to clone the `Generala2` repository. You can get git from [here][git].
+You need git to clone the `Generala2` repository. You can get git from [here](https://git-scm.com/)
 
 We also use a number of Node.js tools to initialize and test `Generala2`. You must have Node.js
-and its package manager (npm) installed. You can get them from [here][node].
+and its package manager (npm) installed. You can get them from [here](https://nodejs.org/).
 
 ### Clone `Generala2`
 
